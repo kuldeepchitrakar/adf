@@ -1,0 +1,7 @@
+{
+	"name": "pl_population_file_cpy",
+	"properties": {
+		"concurrency": 1,
+		"annotations": []
+	}
+}
