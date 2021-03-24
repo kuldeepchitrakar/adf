@@ -125,14 +125,6 @@
 			}
 		],
 		"concurrency": 1,
-		"parameters": {
-			"sourceRelativeURL": {
-				"type": "string"
-			},
-			"sinkFileName": {
-				"type": "string"
-			}
-		},
 		"annotations": []
 	}
 }
