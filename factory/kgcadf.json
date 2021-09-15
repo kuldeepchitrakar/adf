@@ -1,0 +1,9 @@
+{
+	"name": "kgcadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9547b216-70ad-4995-9f5b-72d269eba3b9",
+		"tenantId": "e1ca0cb7-0ad1-4702-8771-8468c2a46617"
+	}
+}
